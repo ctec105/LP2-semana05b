@@ -45,7 +45,7 @@
   <context-param>
   	<description>Ruta del recurso properties</description>
   	<param-name>javax.servlet.jsp.jstl.fmt.localizationContext</param-name>
-  	<param-value>recursos.NoMeRindo</param-value>
+  	<param-value>aprendamos.java.recursos.NoMeRindo</param-value>
   </context-param>
   
 </web-app>
