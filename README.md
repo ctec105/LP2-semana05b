@@ -13,3 +13,4 @@ https://joseltoro.blogspot.com/2017/05/8-crear-una-aplicacion-web-java-en.html
 # Herramientas:
 - Eclipse (Entorno de desarrollo integrado)
 - Apache Tomcat (Contenedor de servlets)
+- MySQL Server 8
